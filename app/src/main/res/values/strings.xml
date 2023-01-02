@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner2</string>
+
+    <string-array name="Currency">
+        <item>Dollars</item>
+        <item>Naira</item>
+        <item>franc</item>
+        <item>Pound</item>
+        <item>Kuwait</item>
+
+    </string-array>
+
+</resources>
